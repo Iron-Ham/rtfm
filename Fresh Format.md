@@ -4,6 +4,9 @@
 
  * The Xcode developer tools are essential for many of the dev tools we use to run on Mac OS X
 
+
+    xcode-select install         <--- this will install command line dev tools
+
 ## Install atom.io
 
  * Install these packages:
