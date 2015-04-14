@@ -37,7 +37,7 @@ Rules 1-6 can be summarized as "use good formatting". You may have seen Tim Pope
 
 Rule 7 is special -- it deals with the content of the commit message, not the format.
 
-###The *why* is the secret behind the best commit messages, and that deserves special attention.
+##The *why* is the secret behind the best commit messages, and that deserves special attention.
 
 Try to be mindful that commit messages are for **two** audiences: code reviewers and future developers. Aim to give these audiences context ot understand *why* you made the decisions that you did. The investment in writing high-quality commit messages pays increasing dividends as the team changes or you forget things. It's worth the time and the effort.
 
