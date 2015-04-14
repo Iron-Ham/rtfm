@@ -7,7 +7,7 @@
 
     xcode-select install         <--- this will install command line dev tools
 
-## Install atom.io
+## Install atom.io (Optional, but helps with editing md files)
 
  * Install these packages:
 1. linter
@@ -39,6 +39,10 @@ We work a lot in the terminal, get used to it and start out right by setting up 
 
 Xamarin is a tool that allows developers to share business logic code amongst multi-platform apps.  
 It uses the .NET framework and C#
+
+## Install PyCharm
+
+[PyCharm](https://www.jetbrains.com/pycharm/) is our primary web development (Django) IDE. You can't use the Community edition. Use your [student ID](https://www.jetbrains.com/student/) to get a free copy.
 
 ## Install pip
 pip is a tool used to install python packages such as django.  
